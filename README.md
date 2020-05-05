@@ -1,2 +1,3 @@
-# RestrictedBoltzmannMachine-demo
-Simple RBM used as feature extractor for classification purposes
+# Restricted Boltzmann Machine demo
+Here it's shown how to create an RBM and how it's possible to use it as a feature extractor. Hidden units' probabilities will be used as input for a simple classifier.
+
